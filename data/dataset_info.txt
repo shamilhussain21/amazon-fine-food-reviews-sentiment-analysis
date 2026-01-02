@@ -1,0 +1,32 @@
+Amazon Fine Food Reviews Dataset
+
+This project uses the Amazon Fine Food Reviews dataset for sentiment analysis.
+
+Dataset Source:
+Kaggle – Amazon Fine Food Reviews
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
+Files Used:
+- Reviews.csv
+- database.sqlite
+
+Dataset Description:
+The dataset contains over 500,000 food reviews from Amazon, including:
+- Review text
+- Review score
+- Product and user information
+- Helpfulness votes
+- Timestamps
+
+Instructions to Use:
+1. Download the dataset from Kaggle using the link above.
+2. Extract the files.
+3. Place the required files inside the `data/` folder:
+
+data/
+├── Reviews.csv
+├── database.sqlite
+
+Note:
+Due to GitHub size limits and best practices, the dataset files are not included in this repository.
+Please download them manually using the link provided above.
